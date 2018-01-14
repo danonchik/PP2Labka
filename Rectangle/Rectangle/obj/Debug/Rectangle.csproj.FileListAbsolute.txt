@@ -1,7 +1,0 @@
-C:\Users\777\Desktop\pp2\Rectangle\Rectangle\obj\Debug\Rectangle.csprojResolveAssemblyReference.cache
-C:\Users\777\Desktop\pp2\Rectangle\Rectangle\obj\Debug\Rectangle.csproj.CoreCompileInputs.cache
-C:\Users\777\Desktop\pp2\Rectangle\Rectangle\bin\Debug\Rectangle.exe.config
-C:\Users\777\Desktop\pp2\Rectangle\Rectangle\bin\Debug\Rectangle.exe
-C:\Users\777\Desktop\pp2\Rectangle\Rectangle\bin\Debug\Rectangle.pdb
-C:\Users\777\Desktop\pp2\Rectangle\Rectangle\obj\Debug\Rectangle.exe
-C:\Users\777\Desktop\pp2\Rectangle\Rectangle\obj\Debug\Rectangle.pdb
