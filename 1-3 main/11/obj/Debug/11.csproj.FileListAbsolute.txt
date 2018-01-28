@@ -1,7 +1,0 @@
-C:\Users\777\Desktop\PP2Labka\11\11\bin\Debug\11.exe.config
-C:\Users\777\Desktop\PP2Labka\11\11\bin\Debug\11.exe
-C:\Users\777\Desktop\PP2Labka\11\11\bin\Debug\11.pdb
-C:\Users\777\Desktop\PP2Labka\11\11\obj\Debug\11.csprojResolveAssemblyReference.cache
-C:\Users\777\Desktop\PP2Labka\11\11\obj\Debug\11.csproj.CoreCompileInputs.cache
-C:\Users\777\Desktop\PP2Labka\11\11\obj\Debug\11.exe
-C:\Users\777\Desktop\PP2Labka\11\11\obj\Debug\11.pdb

@@ -1,7 +1,0 @@
-C:\Users\777\Desktop\pp2\circle\circle\obj\Debug\circle.csprojResolveAssemblyReference.cache
-C:\Users\777\Desktop\pp2\circle\circle\obj\Debug\circle.csproj.CoreCompileInputs.cache
-C:\Users\777\Desktop\pp2\circle\circle\bin\Debug\circle.exe.config
-C:\Users\777\Desktop\pp2\circle\circle\bin\Debug\circle.exe
-C:\Users\777\Desktop\pp2\circle\circle\bin\Debug\circle.pdb
-C:\Users\777\Desktop\pp2\circle\circle\obj\Debug\circle.exe
-C:\Users\777\Desktop\pp2\circle\circle\obj\Debug\circle.pdb
